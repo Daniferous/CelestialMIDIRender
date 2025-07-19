@@ -1,5 +1,6 @@
 # Celestial MIDI Render
 > Proudly made by [SolaricZuli]()!
+
 ### *Celestially Better than Aranara MIDI Render!*
 
 # Celestial Concourse
@@ -10,6 +11,7 @@
 > *The currency "ODS" is an abbreviation of the Dani Cent, a fictional high-value currency at an exchange rate of around US$1 = ¢8.05.*
 
 > *(View Other Meta Disclaimers [here](https://daniferous.github.io/CelestialMIDIRender/meta/). Pretend this is not here.)*
+
 ### Current Exchange Rate: ¢1.00 = US$0.1241
 Last updated: 2025-07-19 17:45 UTC+13
 >All prices are tax-inclusive.
@@ -47,7 +49,7 @@ Last updated: 2025-07-19 17:45 UTC+13
 # Navigation Portal
 > [Main Menu](https://daniferous.github.io/CelestialMIDIRender/)
 
-> [Render Now! - Release 1.3 Build 1](https://daniferous.github.io/CelestialMIDIRender/render/CMR%20Release%201.3.html/)
+> [Render Now! - Release 1.3 Build 1](https://daniferous.github.io/CelestialMIDIRender/render/CMR%20Release%201.3.html)
 
 > [View My Celestial Account](https://daniferous.github.io/CelestialMIDIRender/account)
 
