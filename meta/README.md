@@ -21,17 +21,17 @@ Please read the following as it contains meta-information regarding this project
 
 [^3]: ...I probably should work more on Lost Lurker Game more than... this. 
 
-[Click here to return back to main menu and pretend you did not see this for the immersion, or click any of the links below on the Navigation Portal!](https://daniferous.github.io/celestialmidirender/)
+[Click here to return back to main menu and pretend you did not see this for the immersion, or click any of the links below on the Navigation Portal!](https://daniferous.github.io/CelestialMIDIRender/)
 
 # Navigation Portal
-> [Main Menu](https://daniferous.github.io/celestialmidirender/)
+> [Main Menu](https://daniferous.github.io/CelestialMIDIRender/)
 
-> [Render Now! - Release 1.3 Build 1](https://daniferous.github.io/celestialmidirender/render/CMR%20Release%201.3.html/)
+> [Render Now! - Release 1.3 Build 1](https://daniferous.github.io/CelestialMIDIRender/render/CMR%20Release%201.3.html/)
 
-> [View My Celestial Account](https://daniferous.github.io/celestialmidirender/account)
+> [View My Celestial Account](https://daniferous.github.io/CelestialMIDIRender/account)
 
-> [Check out the Celestial Concourse for new deals!](https://daniferous.github.io/celestialmidirender/concourse)
+> [Check out the Celestial Concourse for new deals!](https://daniferous.github.io/CelestialMIDIRender/concourse)
 
-> [Read the Celestial MIDI Render - End User License Agreement](https://daniferous.github.io/celestialmidirender/EULA/)
+> [Read the Celestial MIDI Render - End User License Agreement](https://daniferous.github.io/CelestialMIDIRender/EULA/)
 
-> [More about MIDI Specifications](https://daniferous.github.io/celestialmidirender/specs/)
+> [More about MIDI Specifications](https://daniferous.github.io/CelestialMIDIRender/specs/)

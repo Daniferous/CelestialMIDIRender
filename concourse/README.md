@@ -9,7 +9,7 @@
 
 > *The currency "ODS" is an abbreviation of the Dani Cent, a fictional high-value currency at an exchange rate of around US$1 = ¢8.05.*
 
-> *(View Other Meta Disclaimers [here](https://daniferous.github.io/celestialmidirender/meta/). Pretend this is not here.)*
+> *(View Other Meta Disclaimers [here](https://daniferous.github.io/CelestialMIDIRender/meta/). Pretend this is not here.)*
 ### Current Exchange Rate: ¢1.00 = US$0.1241
 Last updated: 2025-07-19 17:45 UTC+13
 >All prices are tax-inclusive.
@@ -45,14 +45,14 @@ Last updated: 2025-07-19 17:45 UTC+13
 | Insane and Impossible Package 1   | These MIDIs are only for the brave and the strongest. |  ¢384.95          |  US$47.95          |  € 41.95         |  £35.95          |  ₱2'799          |  ¥7'500          |
 
 # Navigation Portal
-> [Main Menu](https://daniferous.github.io/celestialmidirender/)
+> [Main Menu](https://daniferous.github.io/CelestialMIDIRender/)
 
-> [Render Now! - Release 1.3 Build 1](https://daniferous.github.io/celestialmidirender/render/CMR%20Release%201.3.html/)
+> [Render Now! - Release 1.3 Build 1](https://daniferous.github.io/CelestialMIDIRender/render/CMR%20Release%201.3.html/)
 
-> [View My Celestial Account](https://daniferous.github.io/celestialmidirender/account)
+> [View My Celestial Account](https://daniferous.github.io/CelestialMIDIRender/account)
 
-> [Check out the Celestial Concourse for new deals!](https://daniferous.github.io/celestialmidirender/concourse)
+> [Check out the Celestial Concourse for new deals!](https://daniferous.github.io/CelestialMIDIRender/concourse)
 
-> [Read the Celestial MIDI Render - End User License Agreement](https://daniferous.github.io/celestialmidirender/EULA/)
+> [Read the Celestial MIDI Render - End User License Agreement](https://daniferous.github.io/CelestialMIDIRender/EULA/)
 
-> [More about MIDI Specifications](https://daniferous.github.io/celestialmidirender/specs/)
+> [More about MIDI Specifications](https://daniferous.github.io/CelestialMIDIRender/specs/)

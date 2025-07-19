@@ -113,14 +113,14 @@ I acknowledge that all my Content, either imported or made, is to be used as tra
 I acknowledge that all provisions are legally binding, and that they are valid until the termination of the Company.
 
 # Navigation Portal
-> [Main Menu](https://daniferous.github.io/celestialmidirender/)
+> [Main Menu](https://daniferous.github.io/CelestialMIDIRender/)
 
-> [Render Now! - Release 1.3 Build 1](https://daniferous.github.io/celestialmidirender/render/CMR%20Release%201.3.html/)
+> [Render Now! - Release 1.3 Build 1](https://daniferous.github.io/CelestialMIDIRender/render/CMR%20Release%201.3.html/)
 
-> [View My Celestial Account](https://daniferous.github.io/celestialmidirender/account)
+> [View My Celestial Account](https://daniferous.github.io/CelestialMIDIRender/account)
 
-> [Check out the Celestial Concourse for new deals!](https://daniferous.github.io/celestialmidirender/concourse)
+> [Check out the Celestial Concourse for new deals!](https://daniferous.github.io/CelestialMIDIRender/concourse)
 
-> [Read the Celestial MIDI Render - End User License Agreement](https://daniferous.github.io/celestialmidirender/EULA/)
+> [Read the Celestial MIDI Render - End User License Agreement](https://daniferous.github.io/CelestialMIDIRender/EULA/)
 
-> [More about MIDI Specifications](https://daniferous.github.io/celestialmidirender/specs/)
+> [More about MIDI Specifications](https://daniferous.github.io/CelestialMIDIRender/specs/)
