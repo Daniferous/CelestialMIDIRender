@@ -49,7 +49,7 @@ Last updated: 2025-07-19 17:45 UTC+13
 # Navigation Portal
 > [Main Menu](https://daniferous.github.io/CelestialMIDIRender/)
 
-> [Render Now! - Release 1.3 Build 1](https://daniferous.github.io/CelestialMIDIRender/render/CMR%20Release%201.3.html)
+> [Render Now! - Release 1.3 Build 2](https://daniferous.github.io/CelestialMIDIRender/render/CMR%20Release%201.3.html)
 
 > [View My Celestial Account](https://daniferous.github.io/CelestialMIDIRender/account)
 
