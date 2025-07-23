@@ -27,7 +27,7 @@ Top-of-the-line MIDIs available for your rendering (and maybe piano practice) ne
 # Navigation Portal
 > [Main Menu](https://daniferous.github.io/CelestialMIDIRender/)
 
-> [Render Now! - Release 1.3 Build 2](https://daniferous.github.io/CelestialMIDIRender/render/CMR%20Release%201.3.html)
+> [Render Now! - Release 1.3 Build 4](https://daniferous.github.io/CelestialMIDIRender/render/CMR%20Release%201.3.html)
 
 > [View My Celestial Account](https://daniferous.github.io/CelestialMIDIRender/account)
 

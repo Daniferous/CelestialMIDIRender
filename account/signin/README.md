@@ -4,17 +4,19 @@
 ### *Celestially Better than Aranara MIDI Render!*
 
 # Celestial Account Services
->ℹ️New Celestial Accounts require valid email for registration.
+## Create a new Celestial Account
 
-### [Log In to your Celestial Account](https://daniferous.github.io/CelestialMIDIRender/account/login)
+>⚠️This service is temporarily unavailable. Please return later.
 
-### [Create a New Celestial Account](https://daniferous.github.io/CelestialMIDIRender/account/signin)
+```
+Failed to load https://solariczuli.com/account/services.html
+```
+[//]: # (There will be a program that lets you enter your email and password but it will always fail. This is intended, because I do not want this to be abused.)
 
----
 
->[Forgot Password?](https://daniferous.github.io/CelestialMIDIRender/account/forgetpass)
+> [Refresh Page]()
 
->[Forgot to Register Email?](https://daniferous.github.io/CelestialMIDIRender/account/registeremail)
+> [Return and Try Again](https://daniferous.github.io/CelestialMIDIRender/account)
 
 # Navigation Portal
 > [Main Menu](https://daniferous.github.io/CelestialMIDIRender/)
@@ -28,3 +30,4 @@
 > [Read the Celestial MIDI Render - End User License Agreement](https://daniferous.github.io/CelestialMIDIRender/EULA/)
 
 > [More about MIDI Specifications](https://daniferous.github.io/CelestialMIDIRender/specs/)
+
