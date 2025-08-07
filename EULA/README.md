@@ -1,3 +1,7 @@
+```
+You are currently visiting https://www.solariczuli.com/EULA.html.
+```
+
 # Celestial MIDI Render
 > Proudly made by [SolaricZuli]()!
 
@@ -125,3 +129,5 @@ I acknowledge that all provisions are legally binding, and that they are valid u
 > [Read the Celestial MIDI Render - End User License Agreement](https://daniferous.github.io/CelestialMIDIRender/EULA/)
 
 > [More about MIDI Specifications](https://daniferous.github.io/CelestialMIDIRender/specs/)
+
+> [Celestial MIDI Software Support Page](https://daniferous.github.io/CelestialMIDIRender/support/)

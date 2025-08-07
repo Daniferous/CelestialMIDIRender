@@ -1,3 +1,7 @@
+```
+You are currently visiting https://www.solariczuli.com/account/signin.html.
+```
+
 # Celestial MIDI Render
 > Proudly made by [SolaricZuli]()!
 
@@ -13,6 +17,7 @@ Failed to load https://solariczuli.com/account/services.html
 ```
 [//]: # (There will be a program that lets you enter your email and password but it will always fail. This is intended, because I do not want this to be abused.)
 
+---
 
 > [Refresh Page]()
 
@@ -30,4 +35,6 @@ Failed to load https://solariczuli.com/account/services.html
 > [Read the Celestial MIDI Render - End User License Agreement](https://daniferous.github.io/CelestialMIDIRender/EULA/)
 
 > [More about MIDI Specifications](https://daniferous.github.io/CelestialMIDIRender/specs/)
+
+> [Celestial MIDI Software Support Page](https://daniferous.github.io/CelestialMIDIRender/support/)
 

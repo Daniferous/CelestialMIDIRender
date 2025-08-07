@@ -1,3 +1,7 @@
+```
+You are currently visiting https://www.solariczuli.com/concourse.html.
+```
+
 # Celestial MIDI Render
 > Proudly made by [SolaricZuli]()!
 
@@ -8,12 +12,12 @@
 
 ## List of All Purchasable Items/Subscriptions
 
-> *The currency "ODS" is an abbreviation of the Dani Cent, a fictional high-value currency at an exchange rate of around US$1 = ¢8.05.*
+> *The currency "ODS" is an abbreviation of the Dani Cent, a fictional high-value currency at an exchange rate of around US$1 = ¢7.96.*
 
 > *(View Other Meta Disclaimers [here](https://daniferous.github.io/CelestialMIDIRender/meta/). Pretend this is not here.)*
 
-### Current Exchange Rate: ¢1.00 = US$0.1241
-Last updated: 2025-07-19 17:45 UTC+13
+### Current Exchange Rate: ¢1.00 = US$0.1256
+Last updated: 2025-08-08 05:45 UTC+13
 >All prices are tax-inclusive.
 
 | Product                           | Description                                           | Price in ODS [¢]  | Price in USD [US$] | Price in EUR [€] | Price in GBP [£] | Price in PHP [₱] | Price in JPY [¥] |
@@ -58,3 +62,5 @@ Last updated: 2025-07-19 17:45 UTC+13
 > [Read the Celestial MIDI Render - End User License Agreement](https://daniferous.github.io/CelestialMIDIRender/EULA/)
 
 > [More about MIDI Specifications](https://daniferous.github.io/CelestialMIDIRender/specs/)
+
+> [Celestial MIDI Software Support Page](https://daniferous.github.io/CelestialMIDIRender/support/)
