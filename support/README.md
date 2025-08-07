@@ -5,7 +5,9 @@ Fatal Issue: Destination does not exist.
 ```
 <div style="font-family: 'Segoe UI', Tahoma, sans-serif;">
 
-![alt text](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABIAQMAAABvIyEEAAAABlBMVEUAAABTU1OoaSf/AAAAAXRSTlMAQObYZgAAAENJREFUeF7tzbEJACEQRNGBLeAasBCza2lLEGx0CxFGG9hBMDDxRy/72O9FMnIFapGylsu1fgoBdkXfUHLrQgdfrlJN1BdYBjQQm3UAAAAASUVORK5CYII= "Missing Data")
+<img src = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABIAQMAAABvIyEEAAAABlBMVEUAAABTU1OoaSf/AAAAAXRSTlMAQObYZgAAAENJREFUeF7tzbEJACEQRNGBLeAasBCza2lLEGx0CxFGG9hBMDDxRy/72O9FMnIFapGylsu1fgoBdkXfUHLrQgdfrlJN1BdYBjQQm3UAAAAASUVORK5CYII=" alt = "Missing Data">
+
+<br><br>
 
 [//]: # (This section simply makes it seem that there is no support nor help at all. Because, that is the intended design of this shiddy midi rendering system. Pay to win with no remorse. Even though this is just pretend, having something like this in actuality should be illegal.)
 
