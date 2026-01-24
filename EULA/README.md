@@ -120,7 +120,7 @@ I acknowledge that all provisions are legally binding, and that they are valid u
 # Navigation Portal
 > [Main Menu](https://daniferous.github.io/CelestialMIDIRender/)
 
-> [Render Now! - Release 1.3 Build 4](https://daniferous.github.io/CelestialMIDIRender/render/CMR%20Release%201.3.html)
+> [Render Now! - Release 26.1 Build 1](https://daniferous.github.io/CelestialMIDIRender/render/CMR%2026.1B1.html)
 
 > [View My Celestial Account](https://daniferous.github.io/CelestialMIDIRender/account)
 

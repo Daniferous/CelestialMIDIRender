@@ -22,7 +22,11 @@ Top-of-the-line MIDIs available for your rendering (and maybe piano practice) ne
 [Try it now today and experience the full power of Celestial MIDI Render!](https://daniferous.github.io/CelestialMIDIRender/render/CMR%20Release%201.3.html)
 
 # What's New?
-> [2025.07.12] Visuals and Subtitles Update! For MIDI Content Creators, you can now utilise MIDI Control Changes to add some visual flair to your MIDI Rendering, with the all-new CELESMIDI Format! [Learn more about the CELESMIDI format here.](https://daniferous.github.io/CelestialMIDIRender/specs/)
+> [2026.01.25] Updated the Celestial Concourse and made major changes on purchasing Celestial Shards. Celestial Shards have been repackaged; larger purchases will yield more bonuses in the form of extra Celestial Shards. Up to 40+% extra Shards! [Check it out now in the Celestial Concourse](https://daniferous.github.io/CelestialMIDIRender/concourse).
+
+> [2026.01.20] Fixed Version Verification System which ensures that the version of Celestial MIDI Render you are using is up to date! This finally solves that one major issues users have when they try to purchase from the [Celestial Concourse](https://daniferous.github.io/CelestialMIDIRender/concourse) wherein the Purchase Failed due to unknown reasons, which turns out to be the versions not matching at all! This time, everyone will be on the same page-err version for guaranteed satisfaction!
+
+> [2025.07.12] Visuals and Subtitles Update! For MIDI Content Creators, you can now utilise MIDI Control Changes to add some visual flair to your MIDI Rendering, with the all-new CELESMIDI Format! [Learn more about the CELESMIDI format here](https://daniferous.github.io/CelestialMIDIRender/specs/).
 
 > [2025.01.01] New Celestial MIDI Render Accounts require EMAIL for better account security. [Check your account status here](https://daniferous.github.io/CelestialMIDIRender/account).
 
@@ -31,7 +35,7 @@ Top-of-the-line MIDIs available for your rendering (and maybe piano practice) ne
 # Navigation Portal
 > [Main Menu](https://daniferous.github.io/CelestialMIDIRender/)
 
-> [Render Now! - Release 1.3 Build 4](https://daniferous.github.io/CelestialMIDIRender/render/CMR%20Release%201.3.html)
+> [Render Now! - Release 26.1 Build 1](https://daniferous.github.io/CelestialMIDIRender/render/CMR%2026.1B1.html)
 
 > [View My Celestial Account](https://daniferous.github.io/CelestialMIDIRender/account)
 
