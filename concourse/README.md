@@ -20,7 +20,7 @@ You are currently visiting https://www.solariczuli.com/concourse.html.
 Last updated: 2026-01-25 05:30 UTC+12
 >All prices are tax-inclusive.
 
-| Product                            | Description                                           | Price in ODS [¢]* | Price in USD [US$] | Price in EUR [€] | Price in GBP [£] | Price in PHP [₱] | Price in JPY [¥] |
+| Product                            | Description                                           | Price in ODS [¢]  | Price in USD [US$] | Price in EUR [€] | Price in GBP [£] | Price in PHP [₱] | Price in JPY [¥] |
 |------------------------------------|-------------------------------------------------------|-------------------|--------------------|------------------|------------------|------------------|------------------|
 | Celestial Premium Basic Monthly    | Basic Subscription, with Ads                          |  ¢64.90           |  US$8.95           |  € 6.95          |  £5.95           |  ₱499            |  ¥1'280          |
 | Celestial Premium Basic Yearly     | Basic Subscription, with Ads                          |  ¢649.90          |  US$82.95          |  € 69.95         |  £59.95          |  ₱4'990          |  ¥12'800         |
