@@ -9,7 +9,7 @@ Fatal Issue: Destination does not exist.
 
 <br><br>
 
-[//]: # (This section simply makes it seem that there is no support nor help at all. Because, that is the intended design of this shiddy midi rendering system. Pay to win with no remorse. Even though this is just pretend, having something like this in actuality should be illegal.)
+<div title="(This section simply makes it seem that there is no support nor help at all. Because, that is the intended design of this shiddy midi rendering system. Pay to win with no remorse. Even though this is just pretend, having something like this in actuality should be illegal.)"></div>
 
 <div style="font-size: 150%">
 This solariczuli.com/support.html page can't be found
