@@ -26,7 +26,7 @@ Failed to load https://solariczuli.com/account/services.html
 # Navigation Portal
 > [Main Menu](https://daniferous.github.io/CelestialMIDIRender/)
 
-> [Render Now! - Release 26.1 Build 2](https://daniferous.github.io/CelestialMIDIRender/render/CMR%2026.1B2.html)
+> [Render Now! - Release 26.2 Build 3](https://daniferous.github.io/CelestialMIDIRender/render/CMR%2026.2B3.html)
 
 > [View My Celestial Account](https://daniferous.github.io/CelestialMIDIRender/account)
 
@@ -37,4 +37,3 @@ Failed to load https://solariczuli.com/account/services.html
 > [More about MIDI Specifications](https://daniferous.github.io/CelestialMIDIRender/specs/)
 
 > [Celestial MIDI Software Support Page](https://daniferous.github.io/CelestialMIDIRender/support/)
-

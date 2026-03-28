@@ -19,9 +19,11 @@ From pastel colours to greens and blues, you can select any colour theme that fi
 ## 4. Robust MIDI Packages!
 Top-of-the-line MIDIs available for your rendering (and maybe piano practice) needs.
 ## 5. And Much More!
-[Try it now today and experience the full power of Celestial MIDI Render!](https://daniferous.github.io/CelestialMIDIRender/render/CMR%20Release%201.3.html)
+[Try it now today and experience the full power of Celestial MIDI Render!](https://daniferous.github.io/CelestialMIDIRender/render/CMR%2026.2B3.html)
 
 # What's New?
+> [2026.03.28] Fixed a rendering glitch where the Keyboard does not render as intended.
+
 > [2026.01.25] Updated the Celestial Concourse and made major changes on purchasing Celestial Shards. Celestial Shards have been repackaged; larger purchases will yield more bonuses in the form of extra Celestial Shards. Up to 40+% extra Shards! [Check it out now in the Celestial Concourse](https://daniferous.github.io/CelestialMIDIRender/concourse).
 
 > [2026.01.20] Fixed Version Verification System which ensures that the version of Celestial MIDI Render you are using is up to date! This finally solves that one major issues users have when they try to purchase from the [Celestial Concourse](https://daniferous.github.io/CelestialMIDIRender/concourse) wherein the Purchase Failed due to unknown reasons, which turns out to be the versions not matching at all! This time, everyone will be on the same page-err version for guaranteed satisfaction!
@@ -35,7 +37,7 @@ Top-of-the-line MIDIs available for your rendering (and maybe piano practice) ne
 # Navigation Portal
 > [Main Menu](https://daniferous.github.io/CelestialMIDIRender/)
 
-> [Render Now! - Release 26.1 Build 2](https://daniferous.github.io/CelestialMIDIRender/render/CMR%2026.1B2.html)
+> [Render Now! - Release 26.2 Build 3](https://daniferous.github.io/CelestialMIDIRender/render/CMR%2026.2B3.html)
 
 > [View My Celestial Account](https://daniferous.github.io/CelestialMIDIRender/account)
 
